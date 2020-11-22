@@ -13,6 +13,7 @@ My name is Nipitpon Doungyai. I was born on 25 July 1996 in Thailand. He receive
 
 
 |Technical skill|
+|--------------|
 |Penetration testing|
 |Vulnerability Assessment|
 |Web developement|
