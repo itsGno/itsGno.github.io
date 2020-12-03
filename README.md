@@ -5,7 +5,7 @@
 
 # Biography
 
-My name is Nipitpon Doungyai. I was born on 25 July 1996 in Thailand. He received his Bachelor's Degree in Engineering (Infomation system and network Engineering) from Chiang Mai University in 2019. After graduation, I have been employedd under the position of  IT Security Engineering by T-NET Co.,Ltd.
+My name is Nipitpon Doungyai. I was born on 25 July 1996 in Thailand. He received his Bachelor's Degree in Engineering (Infomation system and network Engineer) from Chiang Mai University in 2019. After graduation, I have been employed under the position of  IT Security Engineering by T-NET Co.,Ltd.
 
 
 ## Certification
