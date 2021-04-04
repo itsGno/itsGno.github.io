@@ -22,12 +22,12 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 KB:
-[Broken Access Control](https://itsGno.github.io/BrokenAccessControl.html)
+[Broken Access Control](https://itsGno.github.io/BrokenAccessControl)
 
-[CSVInjection](https://itsGno.github.io/CSVInjection.html)
+[CSVInjection](https://itsGno.github.io/CSVInjection)
 
-[NoRateLimit](https://itsGno.github.io/NoRateLimit.html)
+[NoRateLimit](https://itsGno.github.io/NoRateLimit)
 
-[UsingComponentswithKnownVulerabilities](https://itsGno.github.io/UsingComponentswithKnownVulerabilities.html)
+[UsingComponentswithKnownVulerabilities](https://itsGno.github.io/UsingComponentswithKnownVulerabilities)
 
-[BruteForceAttack](https://itsGno.github.io/BruteForceAttack.html)
+[BruteForceAttack](https://itsGno.github.io/BruteForceAttack)
